@@ -21,10 +21,10 @@
                 <!-- Search Icon (Positioned Inside Input) -->
                 <img src="/images/icons/Search.png" class="absolute left-3 top-1/2 transform -translate-y-1/2 w-5 h-5" />
             </div>
-        </nav>
-
+        </nav> 
+         <!-- testing -->
         <div class="p-2 flex space-x-2">
-
+             
             <div class="shadow-lg rounded-lg w-24 text-center space-y-2 h-screen flex justify-between flex-col pb-20   ">
                 <div class="">
                     <div class="hover:bg-blue-200 w-24 h-24 flex flex-col items-center p-2 rounded-lg  flex flex-col items-center justify-center">
